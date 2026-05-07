@@ -286,4 +286,7 @@ poetry.toml
 # LSP config files
 pyrightconfig.json
 
+# csv for ch03
+ch03/nyc_taxi_2019-01.csv
+
 # End of https://www.toptal.com/developers/gitignore/api/pycharm,python
